@@ -7,6 +7,7 @@
 </p>
 
 ### Extensiones recomendadas:
+<br>
 <b>Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
@@ -17,13 +18,15 @@ Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahend
 
 HTML CSS Support: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 </b>
-
+<br>
 
 ## Enlaces interesantes
 ### Responsive:
+<br>
 https://www.w3schools.com/
 
 https://getbootstrap.com/
+<br>
 
 ### Herramientas
 Editar cookies: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
