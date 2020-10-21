@@ -8,16 +8,16 @@
 
 ### Extensiones recomendadas:
 <br>
-<b>Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
-Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+<b>Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer</b>
+<br>
+<b>Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense</b>
 
 Auto Close Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
 Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
 HTML CSS Support: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
-</b>
+
 <br>
 
 ## Enlaces interesantes
