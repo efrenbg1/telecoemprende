@@ -41,15 +41,15 @@
                     <br>
                     <div class="d-flex justify-content-center">
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="x" id="x" value="0x0B">
+                            <input type="text" class="form-control" placeholder="x" id="x" onchange="sumar()">
                         </div>
                         <h5 class="mt-2 mx-2">+</h5>
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="y" id="y" value="0xA2">
+                            <input type="text" class="form-control" placeholder="y" id="y" onchange="sumar()">
                         </div>
                         <h5 class="mt-2 mx-2">=</h5>
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="z" id="z" disabled value="0xAD">
+                            <input type="text" class="form-control" placeholder="z" id="z" disabled>
                         </div>
                     </div>
                 </center>
@@ -58,11 +58,22 @@
     </div>
 </body>
 <script>
+    function sumar() {
+        var x = document.getElementById("x").value;
+        var y = document.getElementById("y").value;
+        var z = "";
+        if (x != "" && y != "") {
+            z = parseInt(x) + parseInt(y);
+        }
+        document.getElementById("z").value = z;
+    }
+
+
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js').then(function () {
             console.log("Service Worker Registered");
         });
-    } 
+    }
 </script>
 
 
