@@ -6,7 +6,7 @@
 <p>Hay muchas opciones para programar páginas webs. Yo uso <a href="https://code.visualstudio.com/">VSCode</a> ya que es gratis y se puede mejorar con extensiones.
 </p>
 
-## Extensiones recomendadas:
+### Extensiones recomendadas:
 <b>Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer</b>
 <br>
 <br>
@@ -24,14 +24,14 @@
 <br>
 
 # Enlaces interesantes
-## Responsive:
+### Responsive:
 <b>https://www.w3schools.com/</b>
 <br>
 <br>
 <b>https://getbootstrap.com/</b>
 <br>
 <br>
-## Herramientas
+### Herramientas
 <b>Editar cookies: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es</b>
 <br>
 <br>
