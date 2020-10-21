@@ -7,15 +7,29 @@
 </p>
 
 ### Extensiones recomendadas:
-<img href="/images/liveserver.jpg">
-<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
+<b>Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
-<img href="">
-<a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">Path Intellisense</a>
+Path Intellisense: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 
-Auto Close Tag
-https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+Auto Close Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
-Auto Rename Tag https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+Auto Rename Tag: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
-HTML CSS Support https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+HTML CSS Support: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+</b>
+
+
+## Enlaces interesantes
+### Responsive:
+https://www.w3schools.com/
+
+https://getbootstrap.com/
+
+### Herramientas
+Editar cookies: https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=es
+
+Logos: https://realfavicongenerator.net/
+
+Pipeta de colores: https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es
+
+Lighthouse: https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es
